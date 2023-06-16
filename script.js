@@ -1,5 +1,4 @@
-// const api='https://api.openweathermap.org/data/2.5/weather?q=esfahan&appid=673d84306dcf23cda871aa58af806ab5&units=metric'
-// +`&appid=${apiKey}`
+
 
 let apiUrl='https://api.openweathermap.org/data/2.5/weather?units=metric&q='
 let apiKey='673d84306dcf23cda871aa58af806ab5'
